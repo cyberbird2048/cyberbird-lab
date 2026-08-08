@@ -1,0 +1,11 @@
+# 运行产出（个人数据，不入库）
+output/
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# 系统
+.DS_Store
